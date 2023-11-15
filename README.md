@@ -13,6 +13,8 @@
 
 
 ### Jorge: 
+![image](https://github.com/Alejost7/Parcial/assets/147516744/8ae29505-8f33-4e95-8f4d-7ce264d966f6)
+
 ## Creación de archivos python
 #### Se crean los archivos necesarios para la ejecución del programa utilizando python, un archivo contiene el menú y el otro contiene las funciones del programa:
 #### Archivo de menú:
