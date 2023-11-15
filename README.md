@@ -33,4 +33,5 @@
 ![Captura de Pantalla 2023-11-14 a la(s) 10 21 19 p m](https://github.com/Alejost7/Parcial/assets/147516744/664efcc6-ab0b-4ddb-b605-cab373feed1e)
 ![Captura de Pantalla 2023-11-14 a la(s) 10 29 47 p m](https://github.com/Alejost7/Parcial/assets/147516744/717f7602-b7dc-44e4-9a16-c04aee466258)
 ![Captura de Pantalla 2023-11-14 a la(s) 10 22 27 p m](https://github.com/Alejost7/Parcial/assets/147516744/aa5b0c97-f42c-4a92-a6c9-3bdb8ba7887d)
+![Captura de Pantalla 2023-11-14 a la(s) 10 33 17 p m](https://github.com/Alejost7/Parcial/assets/147516744/ad1c15fc-11bc-45fc-a057-55c78b1008b6)
 ![Captura de Pantalla 2023-11-14 a la(s) 10 22 06 p m](https://github.com/Alejost7/Parcial/assets/147516744/efef5f41-0649-4131-b495-ab54576877c5)
