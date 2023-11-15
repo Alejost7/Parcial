@@ -29,8 +29,7 @@
 ![COMPLETO](https://github.com/Alejost7/Parcial/assets/140433208/cdd41689-244f-44db-82dc-53e1a6fcf501)
 ## Creamos el archivo .gitignore en nuestras respectivas máquinas:
 ![Captura de pantalla 2023-11-14 210246](https://github.com/Alejost7/Parcial/assets/140433208/c26c3cc1-afa3-4937-bcb9-2b2ec9f9fa93)
+## Definimos que archivos queremos ignorar, Los elegimos teniendo en cuenta que utilizamos Python como nuestro lenguaje de programacion.
 ![Captura de Pantalla 2023-11-14 a la(s) 10 21 19 p m](https://github.com/Alejost7/Parcial/assets/147516744/664efcc6-ab0b-4ddb-b605-cab373feed1e)
 ![Captura de Pantalla 2023-11-14 a la(s) 10 22 27 p m](https://github.com/Alejost7/Parcial/assets/147516744/aa5b0c97-f42c-4a92-a6c9-3bdb8ba7887d)
-
-
 ![Captura de Pantalla 2023-11-14 a la(s) 10 22 06 p m](https://github.com/Alejost7/Parcial/assets/147516744/efef5f41-0649-4131-b495-ab54576877c5)
