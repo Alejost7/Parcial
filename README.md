@@ -10,10 +10,9 @@
 ### Nicolas:
 ![image](https://github.com/Alejost7/Parcial/assets/147516744/01df08de-8066-4c16-baba-1bfd14a15ff2)
 ![image](https://github.com/Alejost7/Parcial/assets/147516744/21a6cfc0-a998-4080-9cd2-43ac9c3c99b7)
-
-
 ### Jorge: 
 ![image](https://github.com/Alejost7/Parcial/assets/147516744/8ae29505-8f33-4e95-8f4d-7ce264d966f6)
+#### Usamos los comandos "git clone" para clonar el repositorio, "git checkout -b NameRama" para crear la rama e ir hacia ella, "git push" para subir los cambios.
 
 ## Creación de archivos python
 #### Se crean los archivos necesarios para la ejecución del programa utilizando python, un archivo contiene el menú y el otro contiene las funciones del programa:
