@@ -4,3 +4,4 @@ def preguntarCharacter():
 def preguntarPalabra():
     palabra = input(" POR FAVOR INGRESA LA PALABRA QUE DESEAS CAMBIAR \n :")
     return palabra
+
