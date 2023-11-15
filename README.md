@@ -34,3 +34,5 @@
 ![Captura de Pantalla 2023-11-14 a la(s) 10 33 17 p m](https://github.com/Alejost7/Parcial/assets/147516744/ad1c15fc-11bc-45fc-a057-55c78b1008b6)
 ![Captura de Pantalla 2023-11-14 a la(s) 10 22 27 p m](https://github.com/Alejost7/Parcial/assets/147516744/aa5b0c97-f42c-4a92-a6c9-3bdb8ba7887d)
 ![Captura de Pantalla 2023-11-14 a la(s) 10 22 06 p m](https://github.com/Alejost7/Parcial/assets/147516744/efef5f41-0649-4131-b495-ab54576877c5)
+
+##Nicolas Carrillo es iamnicocr
